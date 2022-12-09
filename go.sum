@@ -1,0 +1,4 @@
+github.com/golang-infrastructure/go-gtypes v0.0.1 h1:hnM1OYSwLPLGkZ4C6ecAxgmAUaPTjnhnUtRNmJj4p6c=
+github.com/golang-infrastructure/go-gtypes v0.0.1/go.mod h1:vFMCxFzxdMInvTtgLZRlWI1rS+mui88sMbL5I+zu1hg=
+github.com/golang-infrastructure/go-shuffle v0.0.0-20221208170347-6b437eacb341 h1:YDk2ydksOG/mhkDXnmbceiq3v3Xk6g7GUYixX9y7Q3o=
+github.com/golang-infrastructure/go-shuffle v0.0.0-20221208170347-6b437eacb341/go.mod h1:GClvLXsnSroM9pINK2GcMrSmP8RHtFHT8NAqsVHEhA0=
